@@ -1,0 +1,28 @@
+dv{
+    width:fit-content;
+    border: 1.5px solid red;
+    padding:30px;
+}
+form{
+    background-color: greenyellow;
+    padding: 15px;
+    width: 400px;
+height: 150px;
+    border: 2px solid rgb(20, 14, 205);
+    border-radius: 15px;
+}
+button{
+border: 3px solid blue;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+}
+FIeldset{
+ border-radius: 15px;
+    border: 5px solid red;
+}
+
+/*
+legend{
+    border: 2px solid red;
+}
